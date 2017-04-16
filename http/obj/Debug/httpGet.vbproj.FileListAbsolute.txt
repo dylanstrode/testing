@@ -7,3 +7,12 @@ C:\Users\Phil\Dropbox\strode\_CS-A-Level\VB-Dev\http\http\obj\Debug\httpGet.vbpr
 C:\Users\Phil\Dropbox\strode\_CS-A-Level\VB-Dev\http\http\obj\Debug\http.exe
 C:\Users\Phil\Dropbox\strode\_CS-A-Level\VB-Dev\http\http\obj\Debug\http.xml
 C:\Users\Phil\Dropbox\strode\_CS-A-Level\VB-Dev\http\http\obj\Debug\http.pdb
+C:\Users\pwood\Dev\VB\vb-http\http\bin\Debug\http.exe.config
+C:\Users\pwood\Dev\VB\vb-http\http\obj\Debug\http.xml
+C:\Users\pwood\Dev\VB\vb-http\http\bin\Debug\http.exe
+C:\Users\pwood\Dev\VB\vb-http\http\bin\Debug\http.pdb
+C:\Users\pwood\Dev\VB\vb-http\http\bin\Debug\http.xml
+C:\Users\pwood\Dev\VB\vb-http\http\obj\Debug\http.Resources.resources
+C:\Users\pwood\Dev\VB\vb-http\http\obj\Debug\httpGet.vbproj.GenerateResource.Cache
+C:\Users\pwood\Dev\VB\vb-http\http\obj\Debug\http.exe
+C:\Users\pwood\Dev\VB\vb-http\http\obj\Debug\http.pdb
